@@ -1,0 +1,159 @@
+.final{
+  border:solid;
+  height:1400px;
+  width:100%;
+  background-color: rgb(245, 181, 6);
+
+  
+}
+.sm{
+    border: solid;
+    height: 40px;
+    width: 200px;
+    margin-left: 50px;
+    background-color: black;
+    color: rgb(247, 184, 12);
+    text-align: center;
+}
+
+ul li{
+    display: inline-block;
+    float: right;
+    padding:10px;
+    color: white;
+
+}
+
+
+.ab{
+    border:solid;
+    height:350px;
+    width: 1180px;
+    background-image:url('file:///home/kgisl/Downloads/pexels-bich-tran-669996%20(2).jpg');
+    background-size: cover;
+    margin:50px;
+    margin-right: 40px;
+   
+}
+
+h3{
+
+    color: yellow;
+    text-align: center;
+}
+.cc{
+    margin-left: 450px;
+    margin-right: 450px;
+    background-color: rgb(224, 203, 11);
+    padding: 5px;
+}
+.cd{
+    border: 1px solid;
+    height: 600px;
+    width:1180;
+    background-color: rgba(24, 2, 2, 0.863);
+    margin:50px;
+    margin-right: 40px;
+    text-align: center;
+   
+}
+.y{
+    color: rgb(221, 207, 6);
+}
+.ee{
+    color: white;
+}
+.t1{
+    border: solid;
+    height: 250px;
+    width: 300px;
+    background-image: url('https://media.istockphoto.com/photos/young-amiling-man-looking-at-digital-tablet-picture-id1181407929?k=20&m=1181407929&s=612x612&w=0&h=es28CuOzZRVWIj6Z5mUL_8oG7Ot6INM_eZiH0_tUK7E=');
+    background-size: cover;
+    margin-left: 30px;
+    border-bottom: 20px;
+    border-right: 30px;
+    text-align: center;
+}
+.t2{
+    border: solid;
+    height: 250px;
+    width: 350px;
+    background-image:url('https://ak.picdn.net/offset/photos/5dcefcbc469b183482a26c72/medium/offset_878331.jpg');
+    background-size: cover;
+    margin-left: 30px;
+    display: inline-block;
+    position: absolute;right: 50px;bottom:-210px;}
+.t3{
+    border:solid;
+    height:250px;
+    width:350px;
+    background-image: url('https://media.istockphoto.com/id/1283021188/photo/adapting-a-brand-strategy-to-suit-her-companys-target-market.webp?s=612x612&w=is&k=20&c=Ay85RHdYsA_Ko9zQZODBDKeLCYzBsWPmVBsdPnKJQQY=');
+    display: inline-block;
+    position: absolute;bottom:-210px;left:450px;
+   
+   
+
+}
+h2{
+    color: white;
+
+}
+.rr{
+    color: white;
+    font-size: 15px;
+}
+.tr{
+    
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+    border-bottom: 20px;
+    border-right: 30px;
+    text-align: center;
+
+}
+.aw{
+position: absolute;right:50px;bottom:-450px;
+    
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+    border-bottom: 20px;
+    border-right: 30px;
+    text-align: center;
+
+}
+.tb{
+    position: absolute;right:500px;bottom:-450px;
+    
+    
+    height: 250px;
+    width: 300px;
+    margin-left: 30px;
+    border-bottom: 20px;
+    border-right: 30px;
+    text-align: center;
+}
+    .hh{
+        background-color: yellow;
+        padding: 5px;
+    }
+    .tell{
+        border: solid;
+        height:200px;
+        width: 1170px;
+        background-image: url('https://wallpapercave.com/wp/wp3077561.png');
+        background-size: cover;
+    }
+    .cvx{
+        color: yellow;
+        font-size: 50px;
+        text-align: center;
+    }
+    .saw{
+        background-color: yellow;
+        padding:5px;
+        text-align: right;
+
+    }
+

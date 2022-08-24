@@ -1,0 +1,145 @@
+.start{
+    border:solid;
+    height:1085px;
+    width:100%;
+}
+.pp{
+    border: solid;
+    height: 370px;
+    width: 1260px;
+    background-color: rgb(70, 61, 61);
+}
+.oo{
+    color: white;
+    text-align: center;
+}
+.uu{
+    color: rgb(226, 226, 87);
+    text-align: center;
+}
+.n{
+    text-align: center;
+    color: white;
+    padding-right: 400px;
+    
+}
+
+.p{
+    text-align: left;
+    color: white;
+}
+.s{
+    color: white;
+   
+}
+.v{
+    color: white;
+}
+.w{
+    color: white;
+}
+.x{
+    color: white;
+}
+.f{
+    color: white;
+    text-align: left;
+}
+
+    
+
+.k{
+    color: white;
+
+}
+.l{
+    color: white;
+
+}
+.m{
+    color: white;
+
+}
+.stop{
+    border:solid;
+    height:350px;
+    width:1260px;
+    background-color: rgb(61, 56, 56);
+}
+.cc{
+    text-align: center;
+    color: white;
+}
+.vv{
+    text-align: center;
+    color: rgb(236, 236, 25);
+}
+.zz{
+    color: rgb(248, 248, 16);
+    font-size: 50px;
+    text-align: left;
+    
+}
+
+.bv{
+    color: white;
+    padding-left: -50px;
+    
+}
+.gk{
+    color: white;
+}
+.ho{
+    color: white;
+}
+.ko{
+    color: white;
+}
+.lo{
+    color: white;
+}
+.mo{
+    color: white;
+}
+.b1{
+    background-color: yellow;
+    text-align: center;
+    padding: 5px;
+}
+.run{
+    border:solid;
+    height:350px;
+    width: 1260px;
+    background-image: url('https://ak.picdn.net/shutterstock/videos/1053015044/thumb/10.jpg?ip=x480');
+    background-size: cover;
+}
+.op{
+    color: white;
+    text-align: center;
+}
+.up{
+    color: white;
+    text-align: center;
+
+}
+.ju{
+    margin-right: 540px;
+    margin-left: 540px;
+}
+.rest{
+    border: solid;
+    height: 230px;
+    width: 1260px;
+    background-color: rgb(56, 55, 55);
+}
+.nb{
+    display: inline-block;
+    color: white;
+    list-style: none;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.ll{
+    color: gold;
+    font-size: 30px;
+}

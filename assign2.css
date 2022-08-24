@@ -1,0 +1,206 @@
+.col-1{
+    width:8.33%;
+    float: left;
+}    
+.col-2{
+    width:16.66%;
+    float: left;
+   
+}
+.col-3{
+    width:25%;
+    float: left;
+   
+}
+.col-4{
+    width:33.33%;
+    float: left;
+   
+}
+.col-5{
+    width:41.66%;
+    float: left;
+    
+}
+.col-6{
+    width:50%;
+    float: left;
+   
+}
+.col-7{
+    width:58.33%;
+    float: left;
+  
+}
+.col-8{
+    width:66.66%;
+    float: left;
+    
+}
+.col-9{
+    width:75%;
+    float: left;
+   
+}
+.col-10{
+    width:83.33%;
+    float: left;
+}
+.col-11{
+    width:91.66%;
+    float: left;
+    
+}
+.col-12{
+    width:100%;
+    float: left;
+}
+
+.aa{
+    background-color: black;
+    height: 700px;
+}
+.bb{
+    background-color: rgb(206, 36, 206);
+    height: 70px;
+}
+.cc{
+    background-color: black;
+    height: 700px;
+}
+.ss{
+    font-size: 20px;
+    color: white;
+}
+.uu{
+    color: white;
+    text-align: left;
+   
+}
+.ww{
+    color: white;
+    text-align: left;
+   
+}
+.xx{
+    color: white;
+    text-align: left;
+   
+}
+.zz{
+    color: white;
+    text-align: left;
+   
+}
+.o{
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px;
+}
+.p{
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px;
+}
+.q{
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px;
+}
+.j{
+    font-size: 20px;
+    display: inline-block;
+    padding: 10px;
+}
+.r{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+.s{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+.t{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.u{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    
+}
+.v{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.e{
+  
+    height:70px;
+    width: 835px;
+    display: inline-block;
+    background-color: aliceblue;
+}
+.k{
+    border-style: none;
+    height: 400px;
+    width: 220px;
+    padding: 10px;
+    display: inline-block;
+    background-color: palevioletred;
+    margin-left: 15px;
+    background-image: url('https://wallpaperaccess.com/full/4391661.jpg');
+    color: white;
+}
+
+.m{
+    border-style: none;
+    height: 400px;
+    width: 220px;
+    padding: 10px;
+    display: inline-block;
+    background-color: chocolate;
+    margin-left: 15px;
+    background-image: url('https://i.pinimg.com/originals/50/b0/d3/50b0d3d0dfe1e627b662ddcc6a8d0c79.jpg');
+    color: white;
+}
+.n{
+    border-style: none;
+    height: 400px;
+    width: 220px;
+    padding: 10px;
+    display: inline-block;
+    background-color: cornflowerblue;
+    margin-left: 15px;
+    background-image: url('https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-developer-picture-id917505742');
+    color: white;
+  
+
+}
+.d{
+    background-color: green;
+    margin-right: 10px;
+}
+.vv{
+    margin-left: 400px;
+    margin-top: -20px;
+
+}
+.y{
+    color: rgb(21, 21, 226);
+}
+h3{
+    color: blue;
+}
+  

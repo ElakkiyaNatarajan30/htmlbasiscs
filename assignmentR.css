@@ -1,0 +1,124 @@
+.col-1{
+    width:8.33%;
+    float: left;
+}
+.col-2{
+    width:16.66%;
+    float: right;
+    height: 75px;
+}
+.col-3{
+    width:25%;
+    float: left;
+}
+.col-4{
+    width:33.33%;
+    float: left;
+}
+.col-5{
+    width:41.66%;
+    float: left;
+}
+.col-6{
+    width:50%;
+    float: left;
+    height: 150px;
+}
+.col-7{
+    width:58.33%;
+    float: left;
+}
+.col-8{
+    width:66.66%;
+    float: left;
+}
+.col-9{
+    width:75%;
+    float: left;
+}
+.col-10{
+    width:83.33%;
+    float: left;
+}
+.col-11{
+    width:91.66%;
+    float: left;
+}
+.col-12{
+    width:100%;
+    float: left;
+    height: 200px;
+}
+@media only screen and (max-width:480px) 
+{
+    [class*="col-"]
+    {
+        width:100%;
+    }
+    
+}
+@media only screen and (min-width:320px)
+{
+    [class*="col-2"]
+    {
+        width: 30%;
+    }
+}
+.item1{
+    background-color: blue;
+}
+
+.item1 h1{
+   text-align: center;
+   color: white;
+}
+.item2{
+    background-color: red;
+}
+.item2 h1{
+    text-align: center;
+    color: aliceblue;
+}
+.item3{
+    background-color: rgb(115, 115, 238);
+   
+}
+.item3 h1{
+    text-align: center;
+    color: aliceblue;
+}
+.item4{
+    background-color: rgb(30, 30, 51);
+    text-align: center;
+    color: white;
+}
+.item4 h1{
+    text-align: center;
+    color: aliceblue;
+}
+.item5{
+    background-color: rgb(248, 248, 129);
+    
+}
+.item5 h1{
+    text-align: center;
+    color: black;
+}
+.item6{
+    background-color: rgb(22, 228, 108);
+    
+}
+.item6 h1{
+    text-align: center;
+    color: white;
+
+}
+.item7{
+    background-color: rgb(195, 192, 241);
+   
+}
+.item7 h1{
+    text-align: center;
+    color: black;
+}
+
